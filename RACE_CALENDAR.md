@@ -1,34 +1,24 @@
 # RACE CALENDAR — MARK
 
-**Last updated:** 2026-06-11
+**Last updated:** 2026-06-30
 
-## Jakarta — LOCKED (exact schedule)
-| Race | Date | Window | Division | Goal |
-|---|---|---|---|---|
-| HYROX Men Open (Singles) | **Sat 27 Jun 2026** | 09:00–13:40 | Open | A — full send, 1:17–1:21 |
-| HYROX Doubles Men Open | **Sun 28 Jun 2026** | 14:30–17:50 | Open | B — sugar coating, no prep cost |
+## DONE
+- **Seoul** — 1:23:01, AG 3rd (Open). Baseline race.
+- **Jakarta Singles** (27 Jun 2026) — **1:23:15**. See JAKARTA_RACE_REPORT.md.
+- **Jakarta Doubles** (28 Jun 2026, w/ Preston) — **1:06:44** (−10min vs SG 3mo prior).
 
-Travel: Fri 26 Jun (SG→JKT ~1.5h). Return: Mon 29 Jun PM.
-Singles wave within 09:00–13:40 — confirm exact start when issued (warm-up/meal timing).
-Doubles Sun afternoon = ~24–28h post-Singles, good recovery.
+## NEXT — BANGKOK (primary near-term target)
+- **Date: 14 August 2026** (confirm exact day)
+- **Division: Open Singles** (benchmark race)
+- **Clean 6-week runway, NO travel** until then — full training time.
+- **Target: 1:15:45** (−7:30 vs Jakarta). Built station-by-station, see JAKARTA_RACE_REPORT.md target table.
+- Doubles w/ Preston in BKK? — TBC.
 
-## Other upcoming
-| Race | Date | Division | Goal |
-|---|---|---|---|
-| HYROX Bangkok | 14 Aug 2026 | Singles Men Open | Inter-block benchmark |
-| HYROX Singapore | 27 Nov 2026 | Singles Men **PRO** | First PRO ever — podium |
-| HYROX Singapore | 29 Nov 2026 | Doubles Men | Podium |
-| HYROX KL | 11 Dec 2026 | Singles Pro + Doubles Open (likely) | Confirm divisions |
+## HORIZON
+- **Beijing (Sep 2026)** — first PRO division attempt; primary WC-qualification target.
+- **Singapore (Nov 2026)** — Pro Singles + Doubles w/ Preston.
+- **Long-term:** WC 2027 qualification via Pro AG 55–59. Strategy = target large-participation Pro races, be top-handful, race several (qualify via placing, not single must-win). Sustained Pro fitness + light sharpen per race; full taper only for 1–2 peaks/yr.
 
-## Completed
-| Race | Date | Format | Result |
-|---|---|---|---|
-| HYROX Seoul | Mar 2026 | Singles | 3rd AG, 1:23:01 |
-
-## WC qualification (verified 8 Jun)
-- Top placings in AG + Pro division at any race (NOT necessarily 1st). Spots scale w/ participants; roll-down applies.
-- At 55 = Pro 55–59, must qualify via Pro. Target large-participation Pro races, be top-handful, race several.
-- 27 Nov Singapore = first Pro = campaign start. Re-check exact 2026/27 AG rule near Nov (Elite15 → points/percentile from Jul 2026).
-
-## Long-term
-- WC qualification 2027 (Pro 55–59). Post-Jakarta: Pro-weight transition (WB 6→9kg, farmer 24→32kg, lunge 20→32kg, sled race-load already 170kg tolerated).
+## PRO TRANSITION (post-Bangkok / for Nov)
+- WB 6→9kg, farmers 24→32kg, lunge 20→24→28→32kg, sled push ~152→202kg (Pro weights heavier across 5 stations).
+- Sled push at Pro weight flagged as primary unknown — test.

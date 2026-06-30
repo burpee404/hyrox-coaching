@@ -1,45 +1,49 @@
 # ATHLETE PROFILE — MARK
 
-**Last updated:** 2026-06-11
+**Last updated:** 2026-06-30
 
 ## Bio
-- Male, 55, 71kg, Singapore. Advanced recreational. Strong cycling/aerobic base. High training tolerance.
+- Male, 55, ~71.5kg, Singapore. Advanced recreational. Strong cycling/aerobic base. High training tolerance.
 
 ## Discipline
-- HYROX Singles (primary), Doubles (secondary). Long-term: WC qualification 2027 (Pro division, AG 55–59).
+- HYROX Singles (primary), Doubles (secondary, w/ Preston). Long-term: WC qualification 2027 (Pro division, AG 55–59).
 
 ## Verified Strengths
-1. Running engine (4:32/km race avg, LT2 4:29) 2. Running under fatigue 3. Aerobic durability 4. Grip/farmer (Seoul AG#1; 24kg×200m@1:38) 5. Sled pull (AG#3) 6. Sled push (170kg×100m tolerated) 7. Work capacity 8. Recovery
+1. Running engine (4:32/km race avg, LT2 4:29) 2. Running under fatigue 3. Aerobic durability 4. Grip/farmer (Seoul AG#1; 24kg×200m@1:38) 5. Sled pull (AG#3) 6. Work capacity 7. Recovery. **Engine confirmed not the limiter (both Jakarta races sub-threshold HR).**
 
-## Verified Weaknesses
-1. **Wall balls — 10:25** (#1 leak; limiter = panic breathing under fatigue, not fitness)
-2. **BBJ — 5:37** (improving fast; 120m clean)
-3. **Sandbag lunges — 5:29** (leg endurance late-race)
-4. Late-race muscular endurance + shoulder fatigue under WB density
+## Verified Weaknesses (post-Jakarta re-ranked)
+1. **Sled push under fatigue** — keystone; cascade source (buckling-surface lift-off, broke 2×/lane)
+2. **WB execution/composure** — NOT fitness (Jakarta time was judging drama); rep standard + breathing under fatigue
+3. **BBJ** — jump distance is the lever (not engine); shin/ankle gated
+4. Late-race muscular endurance
 
 ## Injury history
 - QL/back overload from sled push (asymptomatic; clear after 170kg 7 Jun)
-- Right wrist surgery ~10y ago
+- Right wrist surgery ~10y ago. Left ankle surgery ~30y ago (reduced ROM).
 
-## Active Niggles
-| Niggle | Status (11 Jun) | Protocol |
-|---|---|---|
-| Left forearm/brachialis | **Cleared at 24kg/200m farmer + 55kg pulls** — trending resolved. Dead-hang violations 5+9 Jun (banned, no flare). | No curls/dead hangs. Physio 1–2×/wk. Grip + neutral pulls OK at moderate load. |
-| Right wrist | Mechanical catch, surgeon-cleared | Neutral wrist pressing only. No flat-palm push-ups, no Smith-bar pressing. Strapped pulls. |
-| Right knee (inside) | Silent — held through 28kg lunge | **Banded glute activation pre EVERY leg/run — non-negotiable.** Air squats NOT a valid sub. |
-| Left ankle | Cleared — 120m BBJ clean | Monitor BBJ volume |
-| Shins | **Minor/managed (11 Jun)** — slight tenderness from impact spike. No shin-splint history in years. NOT limiting. | Tibialis raises (working). Manage impact dose (run km/jump/surface). Ice post-impact, roll calf+tib-ant (not bone). Low-impact work unaffected. |
+## POST-JAKARTA UPDATE (30 Jun 2026)
+- **Left forearm (brachialis) + right wrist:** issues since Seoul, **BOTH MUCH IMPROVED now.** Expect far less training limitation going forward. Still: neutral grip default, monitor on heavy pulls; prior heavy restrictions can ease but stay attentive.
+- **Left ankle:** post-surgical (30yr), reduced ROM, impact-spike sensitive. Cleared full reintroduction ladder pre-Jakarta (10km run → loaded reverse lunge → 100 walking lunges @20kg → raced 2 days clean). BBJ remains highest-risk station for it — progress jump distance carefully.
+- **Right knee:** silent with mandatory glute activation. Keep protocol.
+- **Recovery:** much less soreness/fatigue after BOTH Jakarta races vs Seoul = genuine strength gain.
+- **Weight:** ~71.5kg.
+- **Shoes:** Adidas Dropset Elite = proven race shoe, excellent sled grip (confirmed doubles). RULE: break in any race shoe with ≥1 full-distance run before racing. Evo SL easy / Adios Pro 4 quality (running).
+- **Protein:** runs religious ~2g/kg; for carb-load drop to ~1.6g/kg to make room.
 
-## Niggle protocols
-- **Glute activation (pre-leg/run):** SL bridge 2×8/s, banded clamshell 2×12/s, banded side-step 2×10/s. Bands only.
-- **Wrist:** avoid bend-under-load + Smith/fixed-bar pressing.
-- **Brachialis:** no curls/dead hangs until 7+ pain-free days; grip/carry/neutral-pull at moderate load tolerated.
-
-## Operating principle
-**High ROI + race-specific only.** Time-limited to race — every exercise must name its race-station transfer or force-ceiling gain, or it's cut.
+## Niggle protocols (still standing)
+- **Glute activation (pre-leg/run):** SL bridge 2×8/s, banded clamshell 2×12/s, banded side-step 2×10/s. Bands only — not air squats.
+- **Wrist:** neutral grip; small angles trigger more than load — avoid bend-under-load position.
+- **Core:** side plank + captain's chair. Copenhagen (knee) + cable crunch (no activation) DROPPED.
 
 ## Environment
-- SG heat affects pace vs HR. Jakarta hot. Indoor race perf > outdoor SG metrics. Runs by HR, race by pace.
+- SG heat affects pace vs HR. Indoor race perf > outdoor SG metrics. Runs by HR, race by pace.
 
 ## Race results
-- HYROX Seoul Singles — 3rd AG, 1:23:01. Runs AG#1 (4:32/km). Sled push 3:14 / Farmer 1:44 / Sled pull 4:28 strong. WB 10:25 / BBJ 5:37 / Lunge 5:29 weak.
+- Seoul Singles — 3rd AG, 1:23:01.
+- Jakarta Singles (27 Jun) — 1:23:15. Jakarta Doubles (28 Jun, w/ Preston) — 1:06:44 (−10min vs SG). See JAKARTA_RACE_REPORT.md.
+
+## RACE-CRAFT LESSONS (Jakarta)
+- **Check target height/setup with judge BEFORE starting each station** (Jakarta WB judge set wrong target → ~20 false misses).
+- **Never argue mid-set** — note it, finish reps, dispute with head judge after. Mid-set arguing cost time AND focus.
+- **Composure/reset routine** needed — the WB dispute rattled focus for the rest of the race.
+- **Aerobic reserve is large** — can run post-sled segments more aggressively (HR data proves it).
