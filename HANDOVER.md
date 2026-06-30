@@ -1,47 +1,34 @@
 # HANDOVER — Current State
 
-**Date:** 2026-06-11
-**Athlete:** Mark, 55, 71kg, Singapore
-**Coach role:** HYROX performance director — brevity + tables + execution. High ROI + race-specific filter on every decision.
+**Date:** 2026-06-30
+**Athlete:** Mark, 55, ~71.5kg, Singapore
+**Coach role:** HYROX performance director — race optimization. Style: maximum brevity, tables over prose, execution-focused, every rec = sets/reps/load/rest/HR/pace. Flag rule violations. Honest pushback, no rubber-stamping. "EXPLAIN" = expand.
 
-## ONE-LINER FOR NEW CHAT
-"Continuing HYROX coaching for Mark. Read repo files. Jakarta: Singles Sat 27 Jun (09:00–13:40) / Doubles Sun 28 Jun (14:30–17:50), Men Open. ~16 days out as of 11 Jun. Targets: WB 10:25→7:30, BBJ 5:37→5:10, lunge 5:29→5:00. Brachialis cleared, knee fixed via glute activation, shins minor/managed, wrist neutral-only. Comms: brevity, tables, execution, flag violations. Gym AM, runs pre-dawn/PM by HR. WB 3×/wk. Singles full-send, Doubles = whatever's left."
+## ONE-LINER
+Jakarta done (Singles 1:23:15, Doubles 1:06:44). Now starting **Road to Bangkok** (14 Aug 2026, Open Singles, target 1:15:45). Clean 6-week runway, no travel.
 
-## RACE CALENDAR
-| Race | Date | Window | Div |
-|---|---|---|---|
-| Jakarta Singles | Sat 27 Jun | 09:00–13:40 | Open — A, 1:17–1:21 |
-| Jakarta Doubles | Sun 28 Jun | 14:30–17:50 | Open — B |
-| Bangkok Singles | 14 Aug | — | Open benchmark |
-| Singapore Singles | 27 Nov | — | **PRO — first ever, podium** |
-| Singapore Doubles | 29 Nov | — | — |
-| KL S+D | 11 Dec | — | Pro/Open |
+## FILE READ ORDER (new session)
+1. HANDOVER (this) → 2. RULES → 3. ATHLETE_PROFILE → 4. BASELINES → 5. JAKARTA_RACE_REPORT → 6. ROAD_TO_BANGKOK → 7. RACE_CALENDAR → 8. TRAINING_LOG
 
-## WC QUALIFICATION
-- Top placings in AG + Pro (not necessarily 1st); spots scale w/ participants; roll-down applies. Target large Pro fields, top-handful, race several. Sustained Pro fitness + light sharpen, not peak-and-detrain.
+## HEADLINE FINDINGS (Jakarta — full detail in JAKARTA_RACE_REPORT.md)
+- **Engine is NOT the limiter** — both races sub-threshold HR (Singles 65% Z3 / 2% Z5; Doubles 81% Z3). Doubles −10min on day-after legs = proven fitness gain.
+- **Sled push = keystone failure** → cascade (gassed legs bled time on pull/BBJ/row). Fix: go LOWER, fault-proof on buckling surface, unbroken, train under fatigue.
+- **WB 10:24 was officiating + composure, NOT fitness** — judge set wrong target, ~20 false misses, argued mid-set, lost focus (~1min+ lost; real ~9:20). Fix = race-craft + rep standard + compromised breathing, NOT raw volume.
+- **Lunges −51s = clean WIN** (specific training converted). **Run already good** but conservative (had reserve).
+- **Forearm + wrist MUCH improved** — far less training limitation now.
+- **BBJ fix = jump distance** (jumped further in doubles). Shin/ankle gated.
+- **Shoe: Dropset Elite proven** (sled grip); break in new shoes ≥1 full run first.
 
-## CURRENT STATE (11 Jun, ~16 days out)
-- Wk4 mid: Wed threshold ✅ (Z4 at pace, 82% humidity) · Thu Z2 5km (BBJ skipped, rain, legs stiff).
-- Revised back-half: Fri hard WB → **Sat VO2max** (legs fresh) → Sun long. Heavy lower deloaded Thu to protect VO2. BBJ→Mon 15.
-- 8 hard days banked; HRV green (41ms); training productive.
+## NEXT-SESSION ACTIONS
+1. Confirm: sled gym access (heavy + bad surface?); Bangkok doubles w/ Preston y/n; 2–3 recovery days before ramp.
+2. Build ROAD_TO_BANGKOK Week 1 day-by-day (full sets/reps/loads).
+3. Block priority order: (1) sled push fault-proof, (2) WB standard+compromised+composure, (3) BBJ distance, (4) sled pull (free once push fixed), (5) aggressive post-sled running, (6) race-craft.
 
-## RECENT PRs
-Hip thrust 80×10 · Farmer 24kg×200m 1:38 · Sled 170kg×100m · BBJ 120m · WB 6×20@25s + 30 in 1:05 · Row/pulldown 55kg · Threshold 3×6' Z4 hit
+## STANDING RULES (see RULES.md)
+- READ LAST 7 DAYS of TRAINING_LOG before programming ANY day. No same-station stressors consecutive days. No repeating accessory/core 2–3 days running.
+- Glute activation before every leg/run. Erg damper ≤3. Sled 12.5m lanes. Lunge weight on back. Core = side plank + captain's chair (Copenhagen/cable crunch dropped).
+- HR-governed in training, pace-governed on race day. Lab zones: Z2 130–141, Z4 158–164 (LT2), Z5 >164.
 
-## ACTIVE NIGGLES
-- Brachialis: cleared at race grip + moderate pull. No curls/dead hangs (2 dead-hang violations — keep enforcing).
-- Knee: silent w/ banded glute activation (non-negotiable; air squats invalid).
-- Wrist: neutral grip only, no flat-palm push-ups, no Smith-bar pressing.
-- Ankle: cleared. Shins: minor/managed, NOT limiting — manage impact dose, tibialis raises, ice.
-
-## KEY RULES
-- WB #1 (breathing-limited). 3×/wk. Quality runs pre-dawn. Heavy lower → Z2 only PM. Tue = upper+pull. No BBJ on quality-run days. No same-station consecutive. Daily core. Erg ≤3. Sled gym = sled only. **High ROI + race-specific filter on everything.**
-- Data integrity: WB fresh max 35 (NOT 60). BBJ ≠ burpees.
-
-## REPO / SYNC
-- github.com/burpee404/hyrox-coaching. **WRITE WORKS via the `github` connector (native GitHub Integration).** `github_custom_new` is read-only — use `github` tools to push. Can set repo private (write retained).
-
-## NEXT
-- Fri hard WB (legs light) → Sat VO2 pre-dawn → Sun long. BBJ Mon 15 fresh/dry.
-- Confirm exact Singles wave time → race-morning logistics.
-- Wk5 sharpen, taper to Sat 27.
+## REPO NOTE
+- Write connector: native `github` connector has write. `github_custom_new` is READ-ONLY (403).
+- workout_data.csv (Hevy full history) NOT in repo.
